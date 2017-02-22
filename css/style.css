@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding:0;
+}
+header {
+    background-color: red;
+}
+#un {
+    background-color: blue;
+}
+#deux {
+    background-color: yellow;
+}
+#trois {
+    background-color: purple;
+}
+aside {
+     background-color: green;
+}
+footer{
+    background-color: grey;
+}
