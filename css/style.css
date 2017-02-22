@@ -1,1 +1,17 @@
+header, section, aside {
+    background-color: black;
+    color: white;
+}
 
+.row-no-padding [class*="col-"] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#rodney {
+    width: 56%;
+}
+
+ul {
+    list-style: none;
+}
